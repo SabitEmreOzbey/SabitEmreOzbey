@@ -11,7 +11,7 @@ I work across product decisions, UI/UX, architecture, mobile development, backen
 | Project | What I build | Status |
 | --- | --- | --- |
 | **Seriesmate** | A mobile product built with Flutter and Supabase, spanning product design, mobile engineering, backend integration and production releases. | Production source code is private. |
-| [**Candy Panic**](https://github.com/SabitEmreOzbey/candy-panic) | A 3D matching puzzle built with JavaScript and Babylon.js, with public source code and automated tests. | [Play on the web](https://cheesy.games/games/ucle-kurtar/) · [Google Play](https://play.google.com/store/apps/details?id=games.cheesy.candypanic) |
+| [**Candy Panic: Halloween**](https://github.com/SabitEmreOzbey/candy-panic) | A 3D matching puzzle built with JavaScript and Babylon.js, with public source code and automated tests. | [Play on the web](https://cheesy.games/games/ucle-kurtar/) · [Google Play](https://play.google.com/store/apps/details?id=games.cheesy.candypanic) |
 | **Repair Rush** | A 3D repair-shop game built around movement, visual guidance and shop progression, with simulation logic separated from rendering. | In development. |
 
 My browser games are part of [Cheesy Games](https://cheesy.games).
